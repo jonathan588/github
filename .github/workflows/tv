@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d52a3ca864dd58c117a45344b5dabe0.webp", REDE BRASIL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653267554/ei/AYiKYvGvOpWU5gS-vqTgAw/ip/177.87.4.230/id/mS18X_Xu_uA.1/source/yt_live_broadcast/requiressl/yes/tx/24201176/txs/24201175%2C24201176/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC77Pzd94S1XHnSDJuZS339NhqxTvRp-bcfoKHQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886217/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJ8NFIozDRtjo2APVM3KWhnP2UyLN-xDwAsWJzzXSs7MCIH8ZDuFENFFNgCKWY5PMMpnr1F-rGQKT4gGxmQS4VUwD/file/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://yt3.ggpht.com/ytc/AKedOLSW13YN_olchdGSjC59K4VQiZHPO0rq6PlCCWZLTA=s48-c-k-c0x00ffffff-no-rj", RIT TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1653268095/ei/H4qKYvTnBo_yxASx1YSQDA/ip/177.87.4.230/id/4W_GxcB3fi4.1/source/yt_live_broadcast/requiressl/yes/tx/24201176/txs/24201175%2C24201176/hfr/1/maxh/2160/maudio/1/spc/4ocVCyLtbXhrQpAjdyK2fE-1TWasM2gj1iYHEceePQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886217/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKioEOwQzGqoShCHVqG2fKKZWVCQSVjqIKh4E_7dk86uAiBlYMFcHam6s9Fvjs8ztal9tZA2Faxw9G_f_e_Bw-V-lw%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42174cd70ddce777c49b24aea7730341.webp", TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dca3e8515eaaa4f897e40ec0ee001cb7.webp", TV Igreja Mundial do Poder de Deus - IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w777400856_b1096000.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d8fb419ad2b89ff1302e149a9774bc5.webp", Igreja TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_8d8d9bd2-8bc7-48b1-9027-9c5dfa604632.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b1ea269f673bbd4459aa53f2b78ff14.webp", Rede Plenitude TV
+https://meupainel.top:1936/iaptd/iaptd/chunklist_w230903677.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c99ffdca1366ea084333c569452200e.webp", Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1538540532.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3332f4a3f31efb3b808957eac3458616.webp", Igreja Evangélica Cristo Vive
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w774700856.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e64ca7bacac48ae0f31f93838d7ab13f.webp", Pentecostal Inteligente
+https://video01.kshost.com.br:4443/filipe1389/filipe1389/chunklist_w188653608.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://e7.pngegg.com/pngimages/143/922/png-clipart-sistema-brasileiro-de-televisao-sbt-sao-paulo-brazil-television-channel-roxa-television-text.png", sbt de recife 
+https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w694363211.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/913eea75be383d5dd505f5d8e848812d.webp", IURDTV Europa
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e0dca9c62c344c49c98d1bd67409be5/chunklist_b4628000.m3u8?p=79&s=1649790438&e=1649790558&h=1f557f1aea4a88497cc58ba6ad98eecf
